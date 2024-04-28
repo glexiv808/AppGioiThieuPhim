@@ -1,19 +1,13 @@
-package com.phimhay.gioithieuphim;
+package com.phimhay.gioithieuphim.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
-import androidx.navigation.ui.NavigationUI;
 
-import com.phimhay.gioithieuphim.databinding.ActivityMainBinding;
+import com.phimhay.gioithieuphim.R;
 
 public class IntroActivity extends AppCompatActivity {
 
